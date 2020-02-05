@@ -1,2 +1,2 @@
 # charts
-hlem charts for ICP or Openshift
+Helm charts for ICP or Openshift
